@@ -1,0 +1,3 @@
+Pacote de exemplo do Backdoors OS.
+Instale com: pkg install /repo/hello-1.0.0.bkg
+Remova com:  pkg remove hello

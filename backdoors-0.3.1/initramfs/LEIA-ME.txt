@@ -1,0 +1,10 @@
+Backdoors OS 0.3.1 - sistema de arquivos inicial
+
+Este diretorio veio do initramfs (imagem carregada pelo GRUB).
+Tudo o que for criado aqui existe so ate reiniciar: o armazenamento
+persistente chega na Fase 8.
+
+Comandos uteis: ls, cd, pwd, cat, mkdir, touch, write, cp, mv, rm, tree
+Editor: edit ARQUIVO   (modos normal e insercao, como o vi)
+Gerenciador de arquivos: files
+Programas: python home/ola.py   (ou intinfo / int para arquivos .int)
